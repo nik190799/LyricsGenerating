@@ -1,10 +1,12 @@
 # LyricsGenerating
-##Generating lyrics using graph theory
+## Generating lyrics using graph theory
 
-###API
+### API
 https://genius.com/
 
-###Steps: 
+use 'example.com' as a url to get api-key
+
+### Steps: 
 1. Lyrics provided through text files
 2. Considering each word as a node
 3. With multiple songs of a writer creating a graph of those nodes.
