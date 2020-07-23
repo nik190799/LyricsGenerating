@@ -2,7 +2,7 @@
 ## Generating lyrics using graph theory
 
 ### API
-https://genius.com/
+https://genius.com/api-clients
 
 use 'example.com' as a url to get api-key
 
